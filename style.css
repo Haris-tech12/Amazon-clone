@@ -398,6 +398,11 @@ footer{
     font-weight: 500;
 }
 
+.foot-box a{
+    color: white;
+    text-decoration: none;
+}
+
 /** instruction **/
 
 .instruction{
